@@ -1,2 +1,2 @@
 library(tidyverse)
-qplot(mpg$why)
+qplot(mpg$chr)
